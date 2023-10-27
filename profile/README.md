@@ -4,7 +4,7 @@
 
 ## 🙋‍♀️ Introduction?
 
-Welcome to the HausDAO repo the home base for our code in the DAOhaus community. We have been around sense 2019 building, thinking and ideating on DAOs. Our primary goal is to support DAOs, DAO experimentation and build new tools to help foster the future of orginizations.
+Welcome to the HausDAO repo. The home base for all our code and docs in the DAOhaus community. We have been around sense 2019 building, thinking and ideating on DAOs. Our primary goal is to support DAOs, DAO experimentation and build new tools to help foster the future of orginizations.
 
 > We envision a future where any community can achieve its goals while reinforcing the sovereignty of its members. We build technological and cultural tools empowering communities to coordinate.
 > -- <cite>DAOhaus Manifesto</cite>
