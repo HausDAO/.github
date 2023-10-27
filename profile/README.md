@@ -36,14 +36,17 @@ Join us on discord and introduce yourself. We are here to help, jam on new ideas
 
 DAOhaus is a DAO itself. Could a community that builds DAO tools not be? We run in seasonal iterations to set objectives and focus. We are owned and goverend by our users. Come Participate in our governing body [PublicHAUS](https://join.daohaus.fun/)
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
+## Contributors 
+### monorepo
+<a href="https://github.com/HausDAO/monorepo/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=HausDAO/monorepo" />
+</a>
 
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+### baal
+<a href="https://github.com/HausDAO/baal/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=HausDAO/baal" />
+</a>
 
 <!--
 
