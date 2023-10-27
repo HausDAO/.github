@@ -38,13 +38,22 @@ DAOhaus is a DAO itself. Could a community that builds DAO tools not be? We run 
 
 ## Contributors
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
-### monorepo
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
+## monorepo
 <a href="https://github.com/HausDAO/monorepo/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=HausDAO/monorepo" />
 </a>
 
-### baal
+## baal
 <a href="https://github.com/HausDAO/baal/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=HausDAO/baal" />
 </a>
