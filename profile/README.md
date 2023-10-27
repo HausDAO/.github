@@ -47,6 +47,7 @@ DAOhaus is a DAO itself. Could a community that builds DAO tools not be? We run 
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
+
 <!--
 ### monorepo
 <a href="https://github.com/HausDAO/monorepo/graphs/contributors">
