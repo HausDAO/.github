@@ -36,6 +36,15 @@ Join us on discord and introduce yourself. We are here to help, jam on new ideas
 
 DAOhaus is a DAO itself. Could a community that builds DAO tools not be? We run in seasonal iterations to set objectives and focus. We are owned and goverend by our users. Come Participate in our governing body [PublicHAUS](https://join.daohaus.fun/)
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 <!--
 
 **Here are some ideas to get you started:**
