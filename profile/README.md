@@ -18,7 +18,7 @@ We contribute to and maintain the tools that many DAOs rely on. We love contribu
 ## 👩‍💻 Useful resources
 Here are some useful resources
 
-- 📙 Learn more about our tools, how to contribute and how to impliment them yourself [Developer Docs](https://docs.daohaus.club/)
+- 📙 Learn more about our tools, how to contribute and how to implement them yourself [Developer Docs](https://docs.daohaus.club/)
 - 👤 Learn how to use our demos [User Guide](https://guide.daohaus.club/)
 - 💻 Deploy our demo on your own [DAO Starter Demo](https://github.com/HausDAO/dao-app-starter-vite)
 
