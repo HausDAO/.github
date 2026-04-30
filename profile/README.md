@@ -11,30 +11,29 @@ Welcome to the HausDAO repo. The home base for all our code and docs in the DAOh
 
 That's an excerpt from our manifesto. [read more here](https://github.com/HausDAO/manifesto/blob/master/README.md)
 
-## 🌈 Contribution Guidelines
-
-We contribute to and maintain the tools that many DAOs rely on. We love contributions and are always willing to help [read more on the guidlines here](https://docs.daohaus.club/contributing)
-
 ## 👩‍💻 Useful resources
 Here are some useful resources
 
-- 📙 Learn more about our tools, how to contribute and how to implement them yourself [Developer Docs](https://docs.daohaus.club/)
-- 👤 Learn how to use our demos [User Guide](https://guide.daohaus.club/)
-- 💻 Deploy our demo on your own [DAO Starter Demo](https://github.com/HausDAO/dao-app-starter-vite)
+[Admin Application](https://admin.daohaus.club/)
 
-### 🚀 Demos
-You can also use our hosted demos. With these tools you have everything you need to launch a onchain orginization.
+- 📙 Learn more about our tech stack [Developer Docs](https://docs.daohaus.club/)
+- 👤 Learn how to use the admin app [User Guide](https://guide.daohaus.club/)
 
-- [Summoner](https://summon.daohaus.club/)
-- [Admin](https://summon.daohaus.club/)
+### Canonical Code Repositories
+
+These are the 3 active repos:
+
+[Contracts](https://github.com/HausDAO/Baal)
+
+[Subgraph](https://github.com/HausDAO/daohaus-subgraph)
+
+[Admin App](https://github.com/HausDAO/daohaus-admin)
+
 
 ### 👪 Community and Support
 
-Join us on discord and introduce yourself. We are here to help, jam on new ideas, or just hang and be governerds. [DAOhaus discord Server](https://discord.gg/TDUVpyAPy2)
+Join us on discord to ask questions or report bugs: [DAOhaus discord Server](https://discord.gg/TDUVpyAPy2)
 
-### 🗳️ Voting, Polling and Governance
-
-DAOhaus is a DAO itself. Could a community that builds DAO tools not be? We run in seasonal iterations to set objectives and focus. We are owned and goverend by our users. Come Participate in our governing body [PublicHAUS](https://join.daohaus.fun/)
 
 ## Contributors
 
