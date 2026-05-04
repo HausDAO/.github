@@ -21,7 +21,7 @@ Here are some useful resources
 
 ### Canonical Code Repositories
 
-These are the 3 active repos:
+These are the 3 active protocol repos:
 
 [Contracts](https://github.com/HausDAO/Baal)
 
@@ -29,6 +29,13 @@ These are the 3 active repos:
 
 [Admin App](https://github.com/HausDAO/daohaus-admin)
 
+These are the supporting active repos:
+
+[Website](https://github.com/HausDAO/website)
+
+[Developer Docs]([https://github.com/HausDAO/website](https://github.com/HausDAO/dev-docs))
+
+[User Guide]([https://github.com/HausDAO/website](https://github.com/HausDAO/user-guide))
 
 ### 👪 Community and Support
 
