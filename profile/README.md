@@ -33,9 +33,9 @@ These are the supporting active repos:
 
 [Website](https://github.com/HausDAO/website)
 
-[Developer Docs]([https://github.com/HausDAO/website](https://github.com/HausDAO/dev-docs))
+[Developer Docs](https://github.com/HausDAO/dev-docs)
 
-[User Guide]([https://github.com/HausDAO/website](https://github.com/HausDAO/user-guide))
+[User Guide](https://github.com/HausDAO/user-guide)
 
 ### 👪 Community and Support
 
