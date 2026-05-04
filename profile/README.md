@@ -54,7 +54,7 @@ Join us on discord to ask questions or report bugs: [DAOhaus discord Server](htt
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
-## monorepo
+## apps
 <a href="https://github.com/HausDAO/monorepo/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=HausDAO/monorepo" />
 </a>
