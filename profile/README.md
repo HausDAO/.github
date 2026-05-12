@@ -33,9 +33,11 @@ These are the supporting active repos:
 
 [Website](https://github.com/HausDAO/website)
 
+[User Guide](https://github.com/HausDAO/user-guide)
+
 [Developer Docs](https://github.com/HausDAO/dev-docs)
 
-[User Guide](https://github.com/HausDAO/user-guide)
+[Contract Docs](https://github.com/HausDAO/baal-docs)
 
 ### 👪 Community and Support
 
